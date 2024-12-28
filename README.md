@@ -1,1 +1,1 @@
-# ERM-based_E-commerce_Database_using_PostgreSQL
+# PostgreSQL DB for Hotel Room Booking System
