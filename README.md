@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>PostgreSQL DB for Hotel Room Booking System</h1>
+  <h1>Relational DB for Hotel Room Booking/h1>
 </div>
 
 ### 🧐 I. Overview
