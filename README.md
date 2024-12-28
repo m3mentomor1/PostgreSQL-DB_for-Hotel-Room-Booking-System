@@ -10,3 +10,5 @@ This project is a relational database designed to manage the core functionalitie
 ### 🤝 II. Entity-Relationship Diagram (ERD)
 
 ![HotelBooking-ERD](https://github.com/user-attachments/assets/f9a38dc8-a4ed-41b8-84fc-d887297d8b6f)
+
+Made with [Eraser](https://www.eraser.io/)
