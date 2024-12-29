@@ -1,5 +1,5 @@
 -- Create the Customers Table
-CREATE TABLE Customers (
+CREATE TABLE customers (
     customer_id SERIAL PRIMARY KEY,
     first_name VARCHAR(100) NOT NULL,
     last_name VARCHAR(100) NOT NULL,
@@ -8,7 +8,7 @@ CREATE TABLE Customers (
 );
 
 -- Create the Rooms Table
-CREATE TABLE Rooms (
+CREATE TABLE rooms (
     room_id SERIAL PRIMARY KEY,
     room_number VARCHAR(10) UNIQUE NOT NULL,
     room_type VARCHAR(50) NOT NULL, -- e.g., Single, Double, Suite
@@ -17,7 +17,7 @@ CREATE TABLE Rooms (
 );
 
 -- Create the Bookings Table
-CREATE TABLE Bookings (
+CREATE TABLE bookings (
     booking_id SERIAL PRIMARY KEY,
     customer_id INT NOT NULL,
     room_id INT NOT NULL,
@@ -29,7 +29,7 @@ CREATE TABLE Bookings (
 );
 
 -- Create the Payments Table
-CREATE TABLE Payments (
+CREATE TABLE payments (
     payment_id SERIAL PRIMARY KEY,
     booking_id INT NOT NULL,
     amount DECIMAL(10, 2) NOT NULL,
