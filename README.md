@@ -39,7 +39,7 @@ The database includes the following tables:
 
 ### 🛠️ V. Use this repository
 
-**1. Make sure that you have the following requirements:**
+**1. Make sure that you have the following requirements installed:**
 
-- **PostgreSQL** (Version 17 or later)
-- **Azure Data Studio** (Optional)
+- **PostgreSQL** (Version 17 or later) [Download here](https://www.postgresql.org/download/)
+- **Azure Data Studio** (Optional) [Download here]([https://www.postgresql.org/download/](https://go.microsoft.com/fwlink/?linkid=2216158&clcid=0x409))
