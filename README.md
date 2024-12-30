@@ -8,11 +8,11 @@ This project is a relational database designed to manage data for a hotel room b
 ##
 
 ### ⛓️ II. Features
-✅ **Customers**: Store customer details, including names, email addresses, and contact numbers.<br>
-✅ **Rooms**: Manage room inventory with information on room types, prices, and availability.<br>
-✅ **Bookings**: Track reservations with check-in and check-out dates, linked to specific customers and rooms.<br>
-✅ **Payments**: Record payments made for bookings, including payment amounts, methods, and dates.<br>
-✅ **Data Integrity**: Enforced through primary and foreign key constraints.
+✅ **Customers** - Store customer details, including names, email addresses, and contact numbers.<br>
+✅ **Rooms** - Manage room inventory with information on room types, prices, and availability.<br>
+✅ **Bookings** - Track reservations with check-in and check-out dates, linked to specific customers and rooms.<br>
+✅ **Payments** - Record payments made for bookings, including payment amounts, methods, and dates.<br>
+✅ **Data Integrity** - Enforced through primary and foreign key constraints.
 <br><br>
 ##
 
