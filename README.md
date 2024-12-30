@@ -29,3 +29,10 @@ The database includes the following tables:
 - **rooms**: Manages room inventory.
 - **bookings**: Tracks room reservations and links customers to rooms.
 - **payments**: Records payments for bookings.
+<br><br>
+##
+
+### 💻 III. Tech Stack
+``PostgreSQL`` ``pgAdmin`` ``Azure Data Studio``
+<br><br>
+##
