@@ -12,7 +12,7 @@ This project is a relational database designed to manage data for a hotel room b
 ![HotelBooking-ERD](https://github.com/user-attachments/assets/f9a38dc8-a4ed-41b8-84fc-d887297d8b6f)
 
 <div align="center">
-  This Entity-Relationship Diagram (ERD) is made with [Eraser](https://www.eraser.io/).
+  <h4>This Entity-Relationship Diagram (ERD) is made with [Eraser](https://www.eraser.io/).</h4>
 </div>
 
 The database includes the following tables:
