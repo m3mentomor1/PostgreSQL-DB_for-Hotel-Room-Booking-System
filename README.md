@@ -32,7 +32,14 @@ The database includes the following tables:
 <br><br>
 ##
 
-### 💻 III. Tech Stack
+### 💻 IV. Tech Stack
 ``PostgreSQL`` ``pgAdmin`` ``Azure Data Studio``
 <br><br>
 ##
+
+### 🛠️ V. Use this repository
+
+**1. Make sure that you have the following requirements:**
+
+- **PostgreSQL** (Version 17 or later)
+- **Azure Data Studio** (Optional)
