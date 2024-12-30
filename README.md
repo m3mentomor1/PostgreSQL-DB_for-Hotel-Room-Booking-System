@@ -13,7 +13,7 @@ This project is a relational database designed to manage data for a hotel room b
 
 This Entity-Relationship Diagram (ERD) is made with [Eraser](https://www.eraser.io/).
 
-The database schema includes the following tables:
+The database includes the following tables:
 - **customers**: Stores customer details.
 - **rooms**: Manages room inventory.
 - **bookings**: Tracks room reservations and links customers to rooms.
