@@ -7,7 +7,16 @@ This project is a relational database designed to manage data for a hotel room b
 <br><br>
 ##
 
-### ⚙️ II. Database Schema
+### ⛓️ II. Features
+✅ **Customers**: Store customer details, including names, email addresses, and contact numbers.
+✅ **Rooms**: Manage room inventory with information on room types, prices, and availability.
+✅ **Bookings**: Track reservations with check-in and check-out dates, linked to specific customers and rooms.
+✅ **Payments**: Record payments made for bookings, including payment amounts, methods, and dates.
+✅ **Data Integrity**: Enforced through primary and foreign key constraints.
+<br><br>
+##
+
+### ⚙️ III. Database Schema
 
 ![HotelBooking-ERD](https://github.com/user-attachments/assets/f9a38dc8-a4ed-41b8-84fc-d887297d8b6f)
 
