@@ -7,7 +7,7 @@ This project is a relational database designed to manage data for a hotel room b
 <br><br>
 ##
 
-### 🤝 II. Database Schema
+### ⚙️ II. Database Schema
 
 ![HotelBooking-ERD](https://github.com/user-attachments/assets/f9a38dc8-a4ed-41b8-84fc-d887297d8b6f)
 
