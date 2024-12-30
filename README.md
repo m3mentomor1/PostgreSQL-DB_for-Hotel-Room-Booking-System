@@ -7,8 +7,14 @@ This project is a relational database designed to manage data for a hotel room b
 <br><br>
 ##
 
-### 🤝 II. Entity-Relationship Diagram (ERD)
+### 🤝 II. Database Schema
 
 ![HotelBooking-ERD](https://github.com/user-attachments/assets/f9a38dc8-a4ed-41b8-84fc-d887297d8b6f)
 
 Made with [Eraser](https://www.eraser.io/)
+
+The database schema includes the following tables:
+- **customers**: Stores customer details.
+- **rooms**: Manages room inventory.
+- **bookings**: Tracks room reservations and links customers to rooms.
+- **payments**: Records payments for bookings.
